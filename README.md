@@ -1,4 +1,4 @@
-# 🎯 AI Slide Deck Generator
+# AI Slide Deck Generator
 
 > **Transform your ideas into stunning presentations with the power of AI**
 
